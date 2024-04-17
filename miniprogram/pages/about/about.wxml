@@ -1,0 +1,21 @@
+<!--index.wxml-->
+
+<view class="title">Sustecat</view>
+
+<view style="display:flex; justify-content:center; align-items:center;">
+  <image mode="widthFix" src="/pages/images/huihui.png" style="width: 50%;">
+  </image>
+</view>
+
+<text> \n </text>
+
+<view class="head1">协会介绍</view>
+
+
+<view class="staff">
+  v1.0.0
+</view> 
+
+<text> \n </text>
+
+<!-- <button open-type='feedback' type='primary'>意见反馈</button> -->
